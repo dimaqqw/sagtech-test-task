@@ -1,5 +1,8 @@
 ## Инструкция по установке и запуску
-
+```
+$ git clone https://github.com/dimaqqw/sagtech-test-task.git
+$ cd sagtech-test-task
+```
 ```bash
 $ npm install
 ```
